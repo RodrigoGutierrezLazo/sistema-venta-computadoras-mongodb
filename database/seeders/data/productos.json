@@ -1,0 +1,135 @@
+[
+  {
+    "_id": { "$oid": "664d304a9e3b1a2c3d4e5f21" },
+    "codigo_sku": "LAP-ROG-001",
+    "nombre": "Laptop Gamer ASUS ROG Strix G16",
+    "marca": "ASUS",
+    "categoria": "Laptops",
+    "precio": 5499.00,
+    "stock": 10,
+    "stock_minimo": 4,
+    "especificaciones": {
+      "procesador": "Intel Core i7-13650HX",
+      "ram_gb": 16,
+      "almacenamiento": "1TB SSD NVMe M.2",
+      "tarjeta_grafica": "NVIDIA GeForce RTX 4060 8GB GDDR6",
+      "pantalla_pulgadas": 16.0,
+      "sistema_operativo": "Windows 11 Home"
+    },
+    "proveedor_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f01" }
+  },
+  {
+    "_id": { "$oid": "664d304a9e3b1a2c3d4e5f22" },
+    "codigo_sku": "LAP-TP-002",
+    "nombre": "Laptop Lenovo ThinkPad E14 Gen 5",
+    "marca": "Lenovo",
+    "categoria": "Laptops",
+    "precio": 3299.00,
+    "stock": 2,
+    "stock_minimo": 5,
+    "especificaciones": {
+      "procesador": "AMD Ryzen 5 7530U",
+      "ram_gb": 16,
+      "almacenamiento": "512GB SSD PCIe NVMe",
+      "tarjeta_grafica": "AMD Radeon Graphics Integrada",
+      "pantalla_pulgadas": 14.0,
+      "sistema_operativo": "Windows 11 Pro"
+    },
+    "proveedor_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f02" }
+  },
+  {
+    "_id": { "$oid": "664d304a9e3b1a2c3d4e5f23" },
+    "codigo_sku": "DSK-WRK-003",
+    "nombre": "Desktop Workstation Edición y Render 3D",
+    "marca": "Custom Build",
+    "categoria": "Desktops",
+    "precio": 7899.00,
+    "stock": 6,
+    "stock_minimo": 3,
+    "especificaciones": {
+      "procesador": "AMD Ryzen 9 7900X",
+      "ram_gb": 32,
+      "almacenamiento": "2TB SSD Kingston KC3000 NVMe",
+      "tarjeta_grafica": "NVIDIA GeForce RTX 4070 Ti 12GB",
+      "pantalla_pulgadas": null,
+      "sistema_operativo": "Windows 11 Pro"
+    },
+    "proveedor_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f01" }
+  },
+  {
+    "_id": { "$oid": "664d304a9e3b1a2c3d4e5f24" },
+    "codigo_sku": "MON-ODY-004",
+    "nombre": "Monitor Curvo Gamer Odyssey G7 27\" 240Hz",
+    "marca": "Samsung",
+    "categoria": "Monitores",
+    "precio": 1899.00,
+    "stock": 14,
+    "stock_minimo": 4,
+    "especificaciones": {
+      "procesador": "N/A",
+      "ram_gb": 0,
+      "almacenamiento": "N/A",
+      "tarjeta_grafica": "N/A",
+      "pantalla_pulgadas": 27.0,
+      "sistema_operativo": "N/A"
+    },
+    "proveedor_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f02" }
+  },
+  {
+    "_id": { "$oid": "664d304a9e3b1a2c3d4e5f25" },
+    "codigo_sku": "GPU-RTX-005",
+    "nombre": "Tarjeta Gráfica ASUS Dual GeForce RTX 4070 Super 12GB",
+    "marca": "ASUS",
+    "categoria": "Componentes",
+    "precio": 3150.00,
+    "stock": 1,
+    "stock_minimo": 4,
+    "especificaciones": {
+      "procesador": "AD104-350",
+      "ram_gb": 12,
+      "almacenamiento": "N/A",
+      "tarjeta_grafica": "GeForce RTX 4070 Super 12GB GDDR6X",
+      "pantalla_pulgadas": null,
+      "sistema_operativo": "N/A"
+    },
+    "proveedor_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f03" }
+  },
+  {
+    "_id": { "$oid": "664d304a9e3b1a2c3d4e5f26" },
+    "codigo_sku": "CPU-RYZ-006",
+    "nombre": "Procesador AMD Ryzen 7 7800X3D 4.2GHz 8 Cores",
+    "marca": "AMD",
+    "categoria": "Componentes",
+    "precio": 1780.00,
+    "stock": 15,
+    "stock_minimo": 5,
+    "especificaciones": {
+      "procesador": "Ryzen 7 7800X3D (8C/16T, 96MB 3D V-Cache)",
+      "ram_gb": 0,
+      "almacenamiento": "N/A",
+      "tarjeta_grafica": "AMD Radeon Graphics Integrada (2 CU)",
+      "pantalla_pulgadas": null,
+      "sistema_operativo": "N/A"
+    },
+    "proveedor_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f03" }
+  },
+  {
+    "_id": { "$oid": "664d304a9e3b1a2c3d4e5f27" },
+    "codigo_sku": "PER-COR-007",
+    "nombre": "Teclado Mecánico Corsair K70 RGB Pro Cherry MX Red",
+    "marca": "Corsair",
+    "categoria": "Perifericos",
+    "precio": 520.00,
+    "stock": 20,
+    "stock_minimo": 6,
+    "especificaciones": {
+      "procesador": "N/A",
+      "ram_gb": 0,
+      "almacenamiento": "N/A",
+      "tarjeta_grafica": "N/A",
+      "pantalla_pulgadas": null,
+      "sistema_operativo": "Windows / macOS"
+    },
+    "proveedor_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f02" }
+  }
+]

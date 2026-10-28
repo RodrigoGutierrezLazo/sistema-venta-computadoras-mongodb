@@ -1,0 +1,38 @@
+[
+  {
+    "_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f01" },
+    "nombre_empresa": "Tech Wholesale Corp",
+    "ruc_cuit": "20556677881",
+    "contacto": {
+      "asesor": "Martín Villanueva",
+      "email": "ventas@techwholesale.com",
+      "telefono": "+51 987654321"
+    },
+    "direccion": "Av. República de Panamá 3545, San Isidro, Lima",
+    "activo": true
+  },
+  {
+    "_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f02" },
+    "nombre_empresa": "Global Hardware Import S.A.C.",
+    "ruc_cuit": "20667788992",
+    "contacto": {
+      "asesor": "Lorena Cáceres",
+      "email": "contacto@globalhardware.com",
+      "telefono": "+51 945678123"
+    },
+    "direccion": "Av. Garcilaso de la Vega 1348, Cercado de Lima, Lima",
+    "activo": true
+  },
+  {
+    "_id": { "$oid": "664d1f2a9e3b1a2c3d4e5f03" },
+    "nombre_empresa": "Soluciones Informáticas Andinas",
+    "ruc_cuit": "20778899003",
+    "contacto": {
+      "asesor": "Jorge Morales",
+      "email": "jorge.morales@siandinas.pe",
+      "telefono": "+51 912345678"
+    },
+    "direccion": "Av. Mariscal Castilla 850, El Tambo, Huancayo",
+    "activo": true
+  }
+]

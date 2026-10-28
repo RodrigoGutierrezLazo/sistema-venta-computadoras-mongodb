@@ -1,0 +1,5 @@
+Estudiante: Rodrigo Gutierrez Lazo
+Fecha: 28/10/2026
+Proyecto: Base de Datos MongoDB - Venta de Computadoras
+Conexión Utilizada: MongoDB Atlas / MongoDB Local
+URL del Repositorio GitHub: https://github.com/RodrigoGutierrezLazo/sistema-venta-computadoras-mongodb

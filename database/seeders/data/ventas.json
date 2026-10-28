@@ -1,0 +1,98 @@
+[
+  {
+    "_id": { "$oid": "664d405a9e3b1a2c3d4e5f31" },
+    "numero_factura": "F001-00001001",
+    "cliente_id": { "$oid": "664d203a9e3b1a2c3d4e5f11" },
+    "fecha": { "$date": "2026-09-10T14:30:00.000Z" },
+    "items": [
+      {
+        "producto_id": { "$oid": "664d304a9e3b1a2c3d4e5f21" },
+        "codigo_sku": "LAP-ROG-001",
+        "nombre_producto": "Laptop Gamer ASUS ROG Strix G16",
+        "precio_unitario": 5499.00,
+        "cantidad": 1,
+        "subtotal": 5499.00
+      },
+      {
+        "producto_id": { "$oid": "664d304a9e3b1a2c3d4e5f27" },
+        "codigo_sku": "PER-COR-007",
+        "nombre_producto": "Teclado Mecánico Corsair K70 RGB Pro Cherry MX Red",
+        "precio_unitario": 520.00,
+        "cantidad": 1,
+        "subtotal": 520.00
+      }
+    ],
+    "metodo_pago": "Tarjeta de Credito",
+    "subtotal": 5100.85,
+    "impuesto": 918.15,
+    "total": 6019.00
+  },
+  {
+    "_id": { "$oid": "664d405a9e3b1a2c3d4e5f32" },
+    "numero_factura": "F001-00001002",
+    "cliente_id": { "$oid": "664d203a9e3b1a2c3d4e5f12" },
+    "fecha": { "$date": "2026-09-22T16:15:00.000Z" },
+    "items": [
+      {
+        "producto_id": { "$oid": "664d304a9e3b1a2c3d4e5f24" },
+        "codigo_sku": "MON-ODY-004",
+        "nombre_producto": "Monitor Curvo Gamer Odyssey G7 27\" 240Hz",
+        "precio_unitario": 1899.00,
+        "cantidad": 2,
+        "subtotal": 3798.00
+      }
+    ],
+    "metodo_pago": "Transferencia Bancaria",
+    "subtotal": 3218.64,
+    "impuesto": 579.36,
+    "total": 3798.00
+  },
+  {
+    "_id": { "$oid": "664d405a9e3b1a2c3d4e5f33" },
+    "numero_factura": "F001-00001003",
+    "cliente_id": { "$oid": "664d203a9e3b1a2c3d4e5f13" },
+    "fecha": { "$date": "2026-10-05T11:00:00.000Z" },
+    "items": [
+      {
+        "producto_id": { "$oid": "664d304a9e3b1a2c3d4e5f22" },
+        "codigo_sku": "LAP-TP-002",
+        "nombre_producto": "Laptop Lenovo ThinkPad E14 Gen 5",
+        "precio_unitario": 3299.00,
+        "cantidad": 3,
+        "subtotal": 9897.00
+      }
+    ],
+    "metodo_pago": "Transferencia Bancaria",
+    "subtotal": 8387.29,
+    "impuesto": 1509.71,
+    "total": 9897.00
+  },
+  {
+    "_id": { "$oid": "664d405a9e3b1a2c3d4e5f34" },
+    "numero_factura": "F001-00001004",
+    "cliente_id": { "$oid": "664d203a9e3b1a2c3d4e5f14" },
+    "fecha": { "$date": "2026-10-18T18:45:00.000Z" },
+    "items": [
+      {
+        "producto_id": { "$oid": "664d304a9e3b1a2c3d4e5f25" },
+        "codigo_sku": "GPU-RTX-005",
+        "nombre_producto": "Tarjeta Gráfica ASUS Dual GeForce RTX 4070 Super 12GB",
+        "precio_unitario": 3150.00,
+        "cantidad": 1,
+        "subtotal": 3150.00
+      },
+      {
+        "producto_id": { "$oid": "664d304a9e3b1a2c3d4e5f26" },
+        "codigo_sku": "CPU-RYZ-006",
+        "nombre_producto": "Procesador AMD Ryzen 7 7800X3D 4.2GHz 8 Cores",
+        "precio_unitario": 1780.00,
+        "cantidad": 1,
+        "subtotal": 1780.00
+      }
+    ],
+    "metodo_pago": "Tarjeta de Debito",
+    "subtotal": 4177.97,
+    "impuesto": 752.03,
+    "total": 4930.00
+  }
+]

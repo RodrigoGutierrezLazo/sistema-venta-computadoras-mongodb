@@ -1,0 +1,58 @@
+[
+  {
+    "_id": { "$oid": "664d203a9e3b1a2c3d4e5f11" },
+    "nombre_completo": "Rodrigo Gutierrez Lazo",
+    "tipo_documento": "DNI",
+    "numero_documento": "73247464",
+    "email": "rodrigo.gutierrez@continental.edu.pe",
+    "telefono": "+51 964112233",
+    "direccion": {
+      "calle": "Jr. Real 450",
+      "ciudad": "Huancayo",
+      "departamento": "Junín",
+      "codigo_postal": "12000"
+    }
+  },
+  {
+    "_id": { "$oid": "664d203a9e3b1a2c3d4e5f12" },
+    "nombre_completo": "Carlos Daniel Mendoza Ramos",
+    "tipo_documento": "DNI",
+    "numero_documento": "45891234",
+    "email": "carlos.mendoza@gmail.com",
+    "telefono": "+51 988776655",
+    "direccion": {
+      "calle": "Av. La Marina 2100",
+      "ciudad": "Lima",
+      "departamento": "Lima",
+      "codigo_postal": "15088"
+    }
+  },
+  {
+    "_id": { "$oid": "664d203a9e3b1a2c3d4e5f13" },
+    "nombre_completo": "Mariana Paredes Silva",
+    "tipo_documento": "RUC",
+    "numero_documento": "10425566771",
+    "email": "mparedes@estudiolegal.pe",
+    "telefono": "+51 977443322",
+    "direccion": {
+      "calle": "Calle Los Pinos 340",
+      "ciudad": "Arequipa",
+      "departamento": "Arequipa",
+      "codigo_postal": "04001"
+    }
+  },
+  {
+    "_id": { "$oid": "664d203a9e3b1a2c3d4e5f14" },
+    "nombre_completo": "Alejandro Quispe Torres",
+    "tipo_documento": "DNI",
+    "numero_documento": "70112233",
+    "email": "aquispe.dev@outlook.com",
+    "telefono": "+51 955331199",
+    "direccion": {
+      "calle": "Av. Sol 890",
+      "ciudad": "Cusco",
+      "departamento": "Cusco",
+      "codigo_postal": "08000"
+    }
+  }
+]
